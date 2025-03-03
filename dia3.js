@@ -1,5 +1,4 @@
 
-
 let usuario = prompt("Hola, ¿cuál es tu nombre?");
 let area = prompt(`\nHola ${usuario}, nos gustaría saber qué área de la Programación te gustaría seguir? (Elige con el número 1 o 2 respectivamente):\n\n1. Front-End\n2. Back-End\n`);
 
